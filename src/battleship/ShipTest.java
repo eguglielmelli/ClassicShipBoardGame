@@ -1,7 +1,4 @@
-//Emilio Guglielmelli
-//Penn ID 18027147
-//Collaborator: Cynthia Chavez
-//We are NOT submitting the same code
+
 package battleship;
 
 import static org.junit.jupiter.api.Assertions.*;
